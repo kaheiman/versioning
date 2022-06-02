@@ -6,7 +6,7 @@ type Address struct {
 }
 
 func Hello() string {
-	return "Hello, You Marcus!"
+	return "Hello, You Marcus Man!"
 }
 
 func Goodbye() string {
